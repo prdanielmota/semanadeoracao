@@ -24,7 +24,7 @@ body{
 }
 
 
-.fb-like.fb-like, .fb_iframe_widget{
+.fb-like.fb-like{
    position:absolute;
     left:32%;
     right:18%;
